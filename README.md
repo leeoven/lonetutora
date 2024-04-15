@@ -79,3 +79,13 @@ to this output:
 This project requires a NodeJS (plus NPM) environment. You can install NodeJS from [here](https://nodejs.org/en/download) or you can use online tools like [Replit](https://replit.com/).
 
 To execute the project simply run `node index.js {path/to/json/file}` or `npm run start` which runs the script with provided `sample.json` at the root of this directory.
+
+
+## Testing
+Install the testing dependency (`jest`) using `npm install`.
+
+Just run:
+```
+npm test
+
+```
